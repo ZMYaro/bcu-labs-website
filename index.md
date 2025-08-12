@@ -38,5 +38,3 @@ BCU Labs seeks to draw insight and tell stories from the wealth of biking data i
 		<small>Data analysis, stories, infrastructure projects, and more</small>
 	</a>
 </div>
-
-</section>
