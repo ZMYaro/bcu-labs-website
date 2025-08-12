@@ -1,0 +1,19 @@
+{
+	"name": "bcu-labs-website",
+	"author": "Boston Cyclists Union",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "darko serve --watch"
+	},
+	"homepage": "https://github.com/BostonCyclistsUnion/bcu-labs-website#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BostonCyclistsUnion/bcu-labs-website.git"
+	},
+	"bugs": {
+		"url": "https://github.com/BostonCyclistsUnion/bcu-labs-website/issues"
+	},
+	"devDependencies": {
+		"darko": "github:ZMYaro/darko#default-layout-hack"
+	}
+}

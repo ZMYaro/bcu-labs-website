@@ -1,0 +1,150 @@
+:root {
+	--color-red: #ff595e;
+	--color-yellow: #ffca3a;
+	--color-green: #8ac926;
+	--color-blue: #1982c4;
+	--color-purple: #6a4c93;
+	--color-bcu-blue: #0b377e;
+	--color-light-blue: #b2f8fa;
+	
+	--color-body-bg: #f2f2f2;
+	--color-body: #0c0c0c;
+	--color-header-bg: var(--color-bcu-blue);
+	--color-header: #f8f8f8;
+	--color-footer-bg: #606060;
+	--color-footer: white;
+	--color-button-bg: var(--color-bcu-blue);
+	--color-button: white;
+	--color-link: var(--color-bcu-blue);
+	
+	--font-body: 'Rubik', sans-serif;
+	--font-heading: 'Montserrat', sans-serif;
+	
+	--header-max-height: 100px;
+	--header-min-height: 50px;
+	--footer-padding: 10px;
+	--button-margin: 10px;
+	--button-padding: 5px 10px;
+	--button-corner-radius: 25px;
+	
+	--ui-transition-duration: 0.2s;
+}
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-body-bg: #333;
+		--color-body: white;
+		--color-footer-bg: #0c0c0c;
+		--color-link: var(--color-light-blue);
+	}
+}
+
+body {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	
+	font-family: var(--font-body);
+	background-color: var(--color-body-bg);
+	color: var(--color-body);
+}
+
+
+/* ======== General typography ======== */
+
+h1,
+h2,
+h3 {
+	font-family: var(--font-heading);
+	font-weight: normal;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	font-size: 1.5em;
+}
+
+a:any-link {
+	color: var(--color-link);
+}
+a,
+button {
+	transition: filter var(--ui-transition-duration);
+	
+	&:active {
+		filter: brightness(1.2);
+	}
+}
+
+button,
+a.button {
+	display: inline-block;
+	margin: var(--button-margin);
+	padding: var(--button-padding);
+	border: 0;
+	border-radius: var(--button-corner-radius);
+	text-decoration: none;
+	text-align: center;
+	
+	background-color: var(--color-button-bg);
+	color: var(--color-button);
+}
+
+
+/* ======== General page layout ======== */
+
+header {
+	background-color: var(--color-header-bg);
+	color: var(--color-header);
+}
+#header-stripe {
+	position: sticky;
+	top: 0;
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+	height: var(--header-max-height);
+	margin-bottom: 20px;
+
+	> img {
+		height: 100%;
+	}
+	> h1 {
+		font-size: 3rem;
+		font-weight: bold;
+	}
+}
+
+main {
+	max-width: 40rem;
+	margin-inline: auto;
+	padding-inline: 10px;
+}
+
+footer {
+	padding: var(--footer-padding);
+	background-color: var(--color-footer-bg);
+	color: var(--color-footer);
+}
+
+
+/* ======== Other page pieces ======== */
+
+.featured-links {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	
+	button,
+	a.button {
+		width: 22rem;
+		max-width: calc(100% - (2 * (var(--button-margin))));
+		
+		big {
+			display: block;
+		}
+		small {
+			display: block;
+		}
+	}
+}

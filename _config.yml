@@ -1,0 +1,11 @@
+title: BCU Labs Website
+author:
+  name: Boston Cyclists Union
+  url: https://BostonCyclistsUnion.org
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
