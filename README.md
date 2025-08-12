@@ -3,9 +3,11 @@
 
 ## Making content changes
 
-Most of the page content is in [Markdown](https://commonmark.org/help/) (`.md` files), which provide a more human-readable way to write up page content that computers can still turn into [HTML](https://developer.mozilla.org/docs/Web/HTML).
+Most of the page content is in [Markdown](https://commonmark.org/help/) (`.md` files), which provide a more human-readable way to write up page content that computers can still turn into [HTML](https://developer.mozilla.org/docs/Web/HTML).  The `index.md` file in a folder contains the page content for that URL path (e.g., `/bikeparking/index.md` contains the page content for `https://labs.bostoncyclistsunion.org/bikeparking`).
 
 You can still include snippets of HTML in those Markdown files where you need to for custom page elements (e.g., a `<div class="featured-links">`).
+
+The `/assets` folder contains site-wide images, styles, and scripts.  Other than that, files and folders related to site configuration (i.e. not individual pages) each start with an underscore (e.g., `/_layout`).
 
 
 ## Testing locally
