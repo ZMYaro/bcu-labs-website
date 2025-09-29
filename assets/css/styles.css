@@ -87,7 +87,7 @@ button {
 }
 
 button,
-a.link-button {
+a:any-link.link-button {
 	display: inline-block;
 	margin: var(--button-margin);
 	padding: var(--button-padding);
@@ -157,6 +157,10 @@ footer {
 	margin-block-start: var(--footer-padding);
 	background-color: var(--color-footer-bg);
 	color: var(--color-footer);
+	
+	a:any-link {
+		color: var(--color-light-blue);
+	}
 }
 
 
