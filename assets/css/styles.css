@@ -23,8 +23,8 @@
 	
 	--header-max-height: 100px;
 	--header-min-height: 50px;
-	--header-margin: 20px;
-	--footer-padding: 10px;
+	--header-padding: 20px;
+	--footer-padding: 15px;
 	--column-gap: 15px;
 	--button-margin: 10px;
 	--button-padding: 5px 10px;
@@ -99,11 +99,12 @@ a.link-button {
 /* ======== General page layout ======== */
 
 header {
+	padding: var(--header-padding);
 	background-color: var(--color-header-bg);
 	color: var(--color-header);
 	
 	+ header {
-		margin-block-start: calc(-1 * var(--header-margin));
+		margin-block-start: calc(-1 * var(--header-padding));
 	}
 }
 #header-stripe {
@@ -114,8 +115,9 @@ header {
 	align-items: center;
 	gap: 1rem;
 	flex-wrap: wrap;
-	margin-block-end: var(--header-margin);
-
+	margin-block-end: var(--header-padding);
+	padding-block: 0;
+	
 	img {
 		max-width: 100%;
 		max-height: var(--header-max-height);
