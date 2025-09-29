@@ -23,6 +23,7 @@
 	
 	--header-max-height: 100px;
 	--header-min-height: 50px;
+	--header-margin: 20px;
 	--footer-padding: 10px;
 	--button-margin: 10px;
 	--button-padding: 5px 10px;
@@ -107,7 +108,7 @@ header {
 	align-items: center;
 	gap: 1rem;
 	flex-wrap: wrap;
-	margin-bottom: 20px;
+	margin-block-end: var(--header-margin);
 
 	img {
 		max-width: 100%;
