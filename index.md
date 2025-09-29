@@ -6,8 +6,6 @@ title: ''
 
 We are a volunteer-driven group within [Boston Cyclists Union](https://BostonCyclistsUnion.org).  You can [join BCU Labs here](https://docs.google.com/forms/d/e/1FAIpQLSefzxEQ-CAbJd_rrt90DHvdglYvP9RLqdDUVsFq28onw9xXJQ/viewform).
 
-<div style="margin: -1.25rem auto; text-align: center;"><a href="https://secure.everyaction.com/mfRgF-hjuEueYqUtvn9Jeg2" target="_blank" class="button"><big>Donate</big></a></div>
-
 
 ## Our mission
 
