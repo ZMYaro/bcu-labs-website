@@ -77,7 +77,7 @@ button {
 }
 
 button,
-a.button {
+a.link-button {
 	display: inline-block;
 	margin: var(--button-margin);
 	padding: var(--button-padding);
@@ -138,7 +138,7 @@ footer {
 	align-items: center;
 	
 	button,
-	a.button {
+	a.link-button {
 		width: 22rem;
 		max-width: calc(100% - (2 * (var(--button-margin))));
 		
