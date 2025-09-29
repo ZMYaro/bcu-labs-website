@@ -25,6 +25,7 @@
 	--header-min-height: 50px;
 	--header-margin: 20px;
 	--footer-padding: 10px;
+	--column-gap: 15px;
 	--button-margin: 10px;
 	--button-padding: 5px 10px;
 	--button-corner-radius: 25px;
@@ -62,6 +63,7 @@ h3 {
 }
 h1 {
 	text-align: center;
+	font-weight: bold;
 }
 h2 {
 	font-size: 1.5em;
@@ -99,6 +101,10 @@ a.link-button {
 header {
 	background-color: var(--color-header-bg);
 	color: var(--color-header);
+	
+	+ header {
+		margin-block-start: calc(-1 * var(--header-margin));
+	}
 }
 #header-stripe {
 	position: sticky;
@@ -120,11 +126,17 @@ header {
 	}
 }
 
-main {
-	max-width: 40rem;
+main,
+section {
 	margin-inline: auto;
 	padding-inline: 10px;
 }
+	main {
+		max-width: 40rem; /* 640px default */
+	}
+	section {
+		max-width: 80rem; /* 1280px default */
+	}
 
 footer {
 	padding: var(--footer-padding);
@@ -135,6 +147,40 @@ footer {
 
 
 /* ======== Other page pieces ======== */
+
+iframe {
+	border: 0 none;
+}
+
+.multi-column-row {
+	display: flex;
+	justify-content: stretch;
+	flex-wrap: wrap;
+	gap: var(--column-gap);
+	
+	> * {
+		flex-basis: 17.5rem; /* 280px default */
+		
+		&[columns="1"] {
+			flex-grow: 1;
+		}
+		&[columns="2"] {
+			flex-grow: 2;
+		}
+		&[columns="3"]{
+			flex-grow: 3;
+		}
+		&[columns="4"] {
+			flex-grow: 4;
+		}
+		&[columns="5"] {
+			flex-grow: 5;
+		}
+		&[columns="6"] {
+			flex-grow: 6;
+		}
+	}
+}
 
 .featured-links {
 	display: flex;
