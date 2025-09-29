@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{% if page.title and !page.title.empty? %}{{ page.title }} - {% endif %}BCU Labs</title>
+		
+		<meta name="viewport" content="width=device-width" />
+		
+		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/ >
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet" />
+	</head>
+	<body>
+		<header id="header-stripe">
+			<a href="{{ site.baseurl }}/">
+				<img src="{{ site.baseurl }}/assets/images/labs_wordmark.svg" alt="BCU Labs." />
+			</a>
+			{% if page.title and !page.title.empty? %}<h1>{{ page.title }}</h1>{% endif %}
+		</header>
