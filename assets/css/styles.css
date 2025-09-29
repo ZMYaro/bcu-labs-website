@@ -166,6 +166,11 @@ footer {
 
 /* ======== Other page pieces ======== */
 
+img {
+	max-width: 100%;
+	object-fit: contain;
+}
+
 iframe {
 	border: 0 none;
 }

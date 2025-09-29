@@ -58,7 +58,9 @@ title: Forgotten Intersections
 </section>
 <section class="multi-column-row">
 	
-	<img columns="2" src="visibility.jpg" alt="A car driver at the stop line in a protected intersection can see a cyclist ahead and out of xer blind spot." />
+	<div columns="2">
+		<img src="visibility.jpg" alt="A car driver at the stop line in a protected intersection can see a cyclist ahead and out of xer blind spot." />
+	</div>
 	<div columns="3">
 		
 		<h2>Why does it matter?</h2>
