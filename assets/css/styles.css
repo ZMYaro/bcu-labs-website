@@ -127,9 +127,8 @@ header {
 	flex-wrap: wrap;
 	padding-block: 0;
 	
-	img {
-		max-width: 100%;
-		max-height: var(--header-max-height);
+	.logo {
+		height: var(--header-max-height);
 	}
 	h1 {
 		font-size: 3rem;
