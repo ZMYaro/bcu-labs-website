@@ -22,7 +22,7 @@ title: Forgotten Intersections
 		<p>
 			This map shows intersections on routes where the city or state <strong>built mobility lanes</strong> but left some intersections without:
 		</p>
-		<ul style="line-height: 2;">
+		<ul>
 			<li>Corner separation</li>
 			<li>Bike lane separation</li>
 			<li>Crosswalk separation (a.k.a. “daylighting”)</li>
