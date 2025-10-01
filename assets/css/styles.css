@@ -230,3 +230,15 @@ iframe {
 		}
 	}
 }
+
+.full-width-frame-container {
+	display: flex;
+	justify-content: center;
+	overflow: visible;
+	
+	iframe {
+		width: calc(100vw - (2 * var(--section-padding)));
+		max-height: calc(100vh - var(--header-max-height));
+		flex-shrink: 0;
+	}
+}
