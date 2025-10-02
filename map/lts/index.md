@@ -41,7 +41,6 @@ The Level of Traffic Stress system categorizes streets into the following four l
 <figure class="multi-column-row" style="flex-wrap: nowrap;">
 	<img src="viz_lts1.svg" alt="An example LTS 1 street has a 20 mile per hour speed limit, separated bike lane, and 1501 average daily traffic vehicles in one 8.5 foot wide traffic lane.  Low speeds and good lanes make a low stress street." />
 	<img src="viz_lts4.svg" alt="An example LTS 4 street has a 40 mile per hour speed limit, paint only bike lane, and 4512 average daily traffic vehicles in two 8.5 foot wide traffic lanes.  High traffic and subpar lanes lead to high stress." />
-	<img src="viz_lts1.svg" alt="" />
 </figure>
 
 
