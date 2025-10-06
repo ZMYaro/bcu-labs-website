@@ -19,15 +19,15 @@ BCU Labs seeks to draw insight and tell stories from the wealth of biking data i
 		<big>Landway Map</big>
 		<small>Mobility network vision</small>
 	</a>
-	<a class="link-button" href="map">
+	<a class="link-button" href="map/">
 		<big>Bike Stress Map</big>
 		<small>See how stressful Boston's streets are</small>
 	</a>
-	<a class="link-button" href="intersections">
+	<a class="link-button" href="intersections/">
 		<big>Forgotten Intersections</big>
 		<small>Where good bike lanes hit dangerous intersections</small>
 	</a>
-	<a class="link-button" href="bikeparking">
+	<a class="link-button" href="bikeparking/">
 		<big>Bike Parking</big>
 		<small>Where can you park your bike?</small>
 	</a>
