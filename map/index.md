@@ -3,7 +3,7 @@ title: Bike Stress Map
 ---
 
 <h1>
-	<img src="bike_stress_map.svg" alt="Bike Stress Map" />
+	<img src="bike_stress_map_adaptive.svg" alt="Bike Stress Map" />
 </h1>
 
 

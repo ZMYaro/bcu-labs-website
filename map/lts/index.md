@@ -2,7 +2,7 @@
 title: What is Level of Traffic Stress?
 ---
 
-<img src="../bike_stress_map.svg" alt="Bike Stress Map" />
+<img src="../bike_stress_map_adaptive.svg" alt="Bike Stress Map" style="display: block; margin-inline: auto;" />
 
 # What is Level of Traffic Stress?
 
