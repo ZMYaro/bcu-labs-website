@@ -20,7 +20,8 @@ With this stress map, we aim to:
 The Bike Stress Map is our first project, rating every street in Boston, Cambridge, Somerville, and Brookline based on how comfortable it is to ride a bike on. It is a work in progress and a community effort—read below for ways to contribute or [update the map](../osm/).
 
 <div class="full-width-frame-container">
-	<iframe src="https://sckilcoyne.github.io/Website/" height="800px"></iframe>
+	<!-- Embedded stress map -->
+	<iframe src="https://sckilcoyne.github.io/Website/" height="800px" allowfullscreen allow="fullscreen"></iframe>
 </div>
 
 
