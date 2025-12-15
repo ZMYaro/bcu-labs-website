@@ -114,7 +114,7 @@ title: Forgotten Intersections
 <section>
 	
 	<aside>
-		ⓘ Note this map is specifically about streets with safety improvement projects that fell short.  We also talk about streets that haven't received any micromobility safety improvements—check out our <a href="https://landway.BostonCyclistsUnion.org" target="_blank">Landway</a> and <a href="../map">Stress Map</a> projects!
+		<span aria-hidden="true">ⓘ</span> Note this map is specifically about streets with safety improvement projects that fell short.  For more about streets that haven't received <em>any</em> micromobility safety improvements—check out our <a href="https://landway.BostonCyclistsUnion.org" target="_blank">Landway</a> and <a href="../map">Stress Map</a> projects!
 	</aside>
 	
 </section>
