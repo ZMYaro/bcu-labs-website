@@ -83,27 +83,27 @@ title: Forgotten Intersections
 	<image-carousel>
 		
 		<figure>
-			<div style="background-image: url('photos/forgotten_corners/albany&main_cambridge.jpg'); background-size: cover;"></div>
+			<div style="background-image: url('photos/forgotten_corners/albany&main_cambridge.jpg'); background-size: cover; background-position: center;"></div>
 			<!--<img src="photos/forgotten_corners/albany&main_cambridge.jpg" alt="" />-->
 			<figcaption>Albany St. &amp; Main St., Cambridge</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/forgotten_corners/main&vassar_cambridge.jpg'); background-size: cover;"></div>
+			<div style="background-image: url('photos/forgotten_corners/main&vassar_cambridge.jpg'); background-size: cover; background-position: center;"></div>
 			<!--<img src="photos/forgotten_corners/main&vassar_cambridge.jpg" alt=""/>-->
 			<figcaption>Main St. &amp; Vassar St., Cambridge</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/forgotten_corners/broadway&third_cambridge.jpg'); background-size: cover;"></div>
+			<div style="background-image: url('photos/forgotten_corners/broadway&third_cambridge.jpg'); background-size: cover; background-position: center;"></div>
 			<!--<img src="photos/forgotten_corners/broadway&third_cambridge.jpg" alt=""/>-->
 			<figcaption>Broadway &amp; Third St., Cambridge</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/forgotten_corners/central&summer_somerville.jpg'); background-size: cover;"></div>
+			<div style="background-image: url('photos/forgotten_corners/central&summer_somerville.jpg'); background-size: cover; background-position: center;"></div>
 			<!--<img src="photos/forgotten_corners/central&summer_somerville.jpg" alt=""/>-->
 			<figcaption>Central St. &amp; Summer St., Somerville</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/forgotten_corners/summer&central_somerville.jpg'); background-size: cover;"></div>
+			<div style="background-image: url('photos/forgotten_corners/summer&central_somerville.jpg'); background-size: cover; background-position: center;"></div>
 			<!--<img src="photos/forgotten_corners/summer&central_somerville.jpg" alt=""/>-->
 			<figcaption>Summer St. &amp; Central St., Somerville</figcaption>
 		</figure>
