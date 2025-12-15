@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>{% if page.title and !page.title.empty? %}{{ page.title }} - {% endif %}BCU Labs</title>
+		<title>{% if page.title and page.title != nil and page.title != '' %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 		
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width" />
