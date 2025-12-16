@@ -40,19 +40,19 @@ title: Forgotten Intersections
 		<h2>The solution?</h2>
 		
 		<p>
-			Cities need to go back and build <a href="protectedintersections">protected intersections</a>.  Those work by shifting the curb line to the outside of the bike lane—just like a protected bike lane on the rest of the street.  The intersection stays the same size, and drivers still turn around the same corner radius, but the curb stops them taking it so tight they hit someone in the bike lane or crosswalk before they have a chance to react.
+			Cities need to go back and build <a href="protectedintersections/">protected intersections</a>.  Those work by shifting the curb line to the outside of the bike lane—just like a protected bike lane on the rest of the street.  The intersection stays the same size, and drivers still turn around the same corner radius, but the curb stops them taking it so tight they hit someone in the bike lane or crosswalk before they have a chance to react.
 		</p>
 		<p>
 			Protected intersections can be built out of asphalt or concrete, or they can be built faster with “quick build” materials like flex posts and then upgraded later.
 		</p>
 		
-		<a class="link-button" href="protectedintersections">
+		<a class="link-button" href="protectedintersections/">
 			Learn more about protected intersections →
 		</a>
 		
 	</div>
 	<div columns="2">
-		<img src="intersection_conversion.gif" alt="An intersection shifts its stop lines back to move the crosswalks and crossbikes out of the middle of the intersection, then adds protective corners with the same radii as the original curbs to separate right-turning larger vehicles from the micromobility lane." />
+		<img src="./intersection_conversion.gif" alt="An intersection shifts its stop lines back to move the crosswalks and crossbikes out of the middle of the intersection, then adds protective corners with the same radii as the original curbs to separate right-turning larger vehicles from the micromobility lane." />
 	</div>
 	
 </section>

@@ -100,8 +100,8 @@ a:any-link.link-button {
 	color: var(--color-button);
 }
 
-ul {
-	line-height: 2;
+li {
+	margin-bottom: 1em;
 }
 
 
