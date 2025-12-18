@@ -30,9 +30,6 @@ ImageCarouselElement.styles.replace(`
 	display: grid;
 	grid-template-rows: subgrid;
 	
-	text-align: center;
-	font-size: 80%;
-	
 	scroll-snap-stop: always;
 	scroll-snap-align: center;
 }

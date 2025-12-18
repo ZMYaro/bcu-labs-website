@@ -172,6 +172,10 @@ footer {
 figure {
 	margin: 0;
 }
+figcaption {
+	text-align: center;
+	font-size: smaller;
+}
 
 img {
 	max-width: 100%;

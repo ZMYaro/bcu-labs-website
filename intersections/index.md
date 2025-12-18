@@ -52,14 +52,14 @@ title: Forgotten Intersections
 		
 	</div>
 	<div columns="2">
-		<img src="./intersection_conversion.gif" alt="An intersection shifts its stop lines back to move the crosswalks and crossbikes out of the middle of the intersection, then adds protective corners with the same radii as the original curbs to separate right-turning larger vehicles from the micromobility lane." />
+		<img src="./diagrams/intersection_conversion.gif" alt="An intersection shifts its stop lines back to move the crosswalks and crossbikes out of the middle of the intersection, then adds protective corners with the same radii as the original curbs to separate right-turning larger vehicles from the micromobility lane." />
 	</div>
 	
 </section>
 <section class="multi-column-row">
 	
 	<div columns="2">
-		<img src="visibility.jpg" alt="A car driver at the stop line in a protected intersection can see a cyclist ahead and out of xer blind spot." />
+		<img src="diagrams/driver_visibility.jpg" alt="A car driver at the stop line in a protected intersection can see a cyclist ahead and out of xer blind spot." />
 	</div>
 	<div columns="3">
 		

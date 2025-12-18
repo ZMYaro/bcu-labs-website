@@ -46,7 +46,7 @@ title: Protected Intersections? - Forgotten Intersections
 		
 	</div>
 	<div columns="1">
-		<img src="../intersection_conversion.gif" alt="An intersection shifts its stop lines back to move the crosswalks and crossbikes out of the middle of the intersection, then adds protective corners with the same radii as the original curbs to separate right-turning larger vehicles from the micromobility lane." />
+		<img src="../diagrams/intersection_conversion.gif" alt="An intersection shifts its stop lines back to move the crosswalks and crossbikes out of the middle of the intersection, then adds protective corners with the same radii as the original curbs to separate right-turning larger vehicles from the micromobility lane." />
 	</div>
 	
 </section>
@@ -62,19 +62,19 @@ title: Protected Intersections? - Forgotten Intersections
 	<div class="multi-column-row">
 		
 		<figure columns="1">
-			<img src="TODO" alt="" />
+			<img src="../diagrams/car_approach_zones.png" alt="" />
 			<figcaption>
 				Placing bike lane users farther to drivers' right gives more chance to see them and avoid a “right hook”
 			</figcaption>
 		</figure>
 		<figure columns="1">
-			<img src="TODO" alt="" />
+			<img src="../diagrams/bike_approach_zones.png" alt="" />
 			<figcaption>
 				Even if a driver fails to signal, the protected corner gives a bike lane user more time to see the right turn
 			</figcaption>
 		</figure>
 		<figure columns="1">
-			<img src="TODO" alt="" />
+			<img src="../diagrams/truck_turn_zone.png" alt="" />
 			<figcaption>
 				When larger vehicles are involved, protected corners keep bike lane users out of danger zones
 			</figcaption>
