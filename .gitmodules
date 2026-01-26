@@ -1,0 +1,3 @@
+[submodule "projecttracker"]
+	path = projecttracker
+	url = https://github.com/ZMYaro/bcu-project-tracker.git
