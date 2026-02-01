@@ -9,6 +9,8 @@ You can still include snippets of HTML in those Markdown files where you need to
 
 The `/assets` folder contains site-wide images, styles, and scripts.  Other than that, files and folders related to site configuration (i.e. not individual pages) each start with an underscore (e.g., `/_layout`).
 
+Note some sections of the website that aren't just text and images are in other Git repositories and added via submodules (at time of writing, just `/projecttracker`).
+
 
 ## Testing locally
 
