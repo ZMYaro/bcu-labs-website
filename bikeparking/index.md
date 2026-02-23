@@ -49,32 +49,32 @@ This will prompt you to select the type of object to be placed there and bicycle
 	<image-carousel>
 		
 		<figure>
-			<div style="background-image: url('photos/SC1.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/SC1.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/SC1.png" alt="" />-->
 			<figcaption>Basic StreetComplete View</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/SC2.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/SC2.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/SC2.png" alt=""/>-->
 			<figcaption>Layers menu</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/SC3.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/SC3.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/SC3.png" alt=""/>-->
 			<figcaption>"Things" layer selected</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/SC4.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/SC4.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/SC4.png" alt=""/>-->
 			<figcaption>New object creation</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/SC5.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/SC5.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/SC5.png" alt=""/>-->
 			<figcaption>New object type selection</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/SC6.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/SC6.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/SC6.png" alt=""/>-->
 			<figcaption>New Bicycle Parking created</figcaption>
 		</figure>
@@ -93,31 +93,31 @@ https://every-door.app/
 	<image-carousel>
 		
 		<figure>
-			<div style="background-image: url('photos/ED1.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/ED1.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/ED1.png" alt="" />-->
 			<figcaption>To view where existing bicycle parking is marked in OpenStreetMap, select the tree icon and update the map for your location to show existing features. This view will indicate bike parking if any is nearby along with some other options marked on the map. The image above shows the area at the intersection of Boylston St and Tremont St. Three points marked as bicycle parking are shown on Boylston Street and within the park. Note that the colors for icons may not be the same for each user.
             </br>
             To add the location of bicycle parking choose the blue plus sign button in the lower right of the screen. This will open a new window to prompt to choose the location to be added and is shown below. Once you have moved the pin to the location you would like to add an un-mapped instance of bicycle parking, click the blue checkmark in the lower right.</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/ED2.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/ED2.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/ED2.png" alt=""/>-->
 			<figcaption>Select ‘Bicycle Parking’ amenity=bicycle_parking as the type of marker to be added either by choosing from the common options or by searching for this term in the ‘Choose type…’ search box</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/ED3.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/ED3.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/ED3.png" alt=""/>-->
 			<figcaption>This will open a prompt about details of the bicycle parking including: type, capacity, operator, whether the parking is covered, open to the public, free or for a fee and more. Within the additional options whether the parking is indoor or outdoor, lit by lights, and on a level surface are relevant fields. Images can also be added in the additional options.</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/ED4.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/ED4.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/ED4.png" alt=""/>-->
 			<figcaption>The type of racks installed by the city of Boston are known by several names including post-and-ring lollipop, bollard, post and hoop, post and loop, and are also described by several existing terms in the field type including ‘bollard’, ‘post_hoop’, and ‘post_loop’
             </br>
             Once you have selected information for the fields you wish to complete, choose the green Save button at the bottom of the list and your newly-defined bicycle parking should appear on the map!</figcaption>
 		</figure>
 		<figure>
-			<div style="background-image: url('photos/ED5.png'); background-size: cover; background-position: center;"></div>
+			<div style="background-image: url('photos/ED5.png'); background-size: contain; background-position: center;"></div>
 			<!--<img src="photos/ED5.png" alt=""/>-->
 			<figcaption>Once you have saved the new bike parking, you need to submit your changes to OpenStreetMap. You can do this by clicking the up arrow on the left of the bottom toolbar on the map screen. You can add multiple items and submit them all at once if you wish.</figcaption>
 		</figure>
