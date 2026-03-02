@@ -3,6 +3,7 @@ title: Bike Parking
 ---
 # Why is bike parking important?
 
+There are numerous obstacles that prevent people from choosing to ride a bike for a trip. Many of these can be boiled down to a feeling of safety. You can see our analysis on the comfort of biking on streets on our [Stress Map](https://labs.bostoncyclistsunion.org/stressmap/). But another major obstacle is bike parking. If one doesn't feel that they can safely park their bike at their destination, they won't choose to bike. As you can see in the map below, bike parking is not evenly or thoroughly distributed throughout Boston. This means that there are countless people that aren't able to bike when they otherwise would choose to. Improving this situation is something that each city is more than capable to do, as installing bike racks is simple, cheap, and quick. BCU has been advocating for improved bike parking for many years now, included in our [2021 report](https://bostoncyclistsunion.org/wp-content/uploads/2022/01/bcu-parking-study-final.pdf).
 
 <div class="full-width-frame-container">
 	<!-- Embedded stress map -->
@@ -11,21 +12,34 @@ title: Bike Parking
 
 # How to request new bike parking
 
-## Boston
-https://www.boston.gov/departments/boston-bikes/bike-rack-program
+If you know of a specific location that could use a bike rack, we strongly encourage you to request it directly from the controlling jurisdiction. In general, this is the only way to make sure they know exactly where people will use new bike parking. Also, if people consistently request bike parking, this may increase the prioirty to install more racks faster.  
 
-The City of Boston provides a google form for requesting the addition of city-installed bike racks on the bike rack program page linked directly.  This program indicates that locations in commercial corridors and in partnership with civic institutions, such as libraries and community centers will be prioritized.
+To help, we have collected below the suggested method to request new bike racks for as many jurisdictions as we can. If you know of something we have missed, please let us know.
+
+## Boston
+
+[Boston claims](https://www.boston.gov/departments/boston-bikes/bike-rack-program) to install and repair about 120 - 160 bike racks per year, but they haven't updated their newly installed bike rack map since 2020 (as up 3/2/2026).  
+  
+The City provides a [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeePsIpR2s-Fw4oKbZsH8gJwWP1l5GexRCt-TWcKjWt4v3Dgw/viewform) for requesting the addition of city-installed bike racks on the bike rack program page linked directly.  This program indicates that locations in commercial corridors and in partnership with civic institutions, such as libraries and community centers will be prioritized.  
 
 ## Cambridge
+
 SeeClickFlix
+
 ## Somerville
+
 TBD
+
 ## Brookline
+
 TBD
+
 ## DCR
+
 TBD
 
 # How to add exsisting bike parking to this map
+
 This map is created from OpenStreetMap (OSM) data. That means that anyone can add bike parking to this map, much like Wikipedia.
 
 There are many apps that allow you to map features in OSM. Below are a few of the easiest apps to get started and how to specifically use them to add bike parking to OSM.
@@ -33,6 +47,7 @@ There are many apps that allow you to map features in OSM. Below are a few of th
 For all of the options below, you will need an account on OSM. You can create an account [here](https://www.openstreetmap.org/user/new). 
 
 ## StreetComplete - Android only
+
 [StreetComplete](https://streetcomplete.app/) is a smartphone app for editing OpenStreetMaps and is currently only available for [Android](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete).
 
 Instructions for how to add new bicycle parking using StreetComplete
@@ -83,9 +98,11 @@ This will prompt you to select the type of object to be placed there and bicycle
 </section>
 
 ## EveryDoor - Apple/Android
+
 [EveryDoor](https://every-door.app/) is a smartphone app for adding features, such as bicycle parking, and updating and enhancing details of features, such as capacity of bike parking, to OpenStreetMaps and is available for both [Apple](https://apps.apple.com/us/app/every-door/id1621945342) and [Android](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door).
 
 ### Step-by-step instructions for adding unmapped bike parking via EveryDoor
+
 <section>
 
 	<image-carousel>
@@ -94,8 +111,9 @@ This will prompt you to select the type of object to be placed there and bicycle
 			<div style="background-image: url('photos/ED1.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/ED1.png" alt="" />-->
 			<figcaption style="text-align: left; font-size: medium">
-			To view where existing bicycle parking is marked in OpenStreetMap, select the tree icon and update the map for your location to show existing features. This view will indicate bike parking if any is nearby along with some other options marked on the map. The image above shows the area at the intersection of Boylston St and Tremont St. Three points marked as bicycle parking are shown on Boylston Street and within the park. Note that the colors for icons may not be the same for each user.
-            </br></br>
+			To view where existing bicycle parking is marked in OpenStreetMap, select the tree icon and update the map for your location to show existing features. This view will indicate bike parking if any is nearby along with some other options marked on the map. The image above shows the area at the intersection of Boylston St and Tremont St. Three points marked as bicycle parking are shown on Boylston Street and within the park. Note that the colors for icons may not be the same for each user.  
+			  
+
             To add the location of bicycle parking choose the blue plus sign button in the lower right of the screen. This will open a new window to prompt to choose the location to be added and is shown below. Once you have moved the pin to the location you would like to add an un-mapped instance of bicycle parking, click the blue checkmark in the lower right.
 			</figcaption>
 		</figure>
@@ -117,8 +135,9 @@ This will prompt you to select the type of object to be placed there and bicycle
 			<div style="background-image: url('photos/ED4.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/ED4.png" alt=""/>-->
 			<figcaption style="text-align: left; font-size: medium">
-			The type of racks installed by the city of Boston are known by several names including post-and-ring lollipop, bollard, post and hoop, post and loop, and are also described by several existing terms in the field type including ‘bollard’, ‘post_hoop’, and ‘post_loop’
-            </br></br>
+			The type of racks installed by the city of Boston are known by several names including post-and-ring lollipop, bollard, post and hoop, post and loop, and are also described by several existing terms in the field type including ‘bollard’, ‘post_hoop’, and ‘post_loop’.  
+			  
+
             Once you have selected information for the fields you wish to complete, choose the green Save button at the bottom of the list and your newly-defined bicycle parking should appear on the map!
 			</figcaption>
 		</figure>
@@ -167,8 +186,9 @@ This will prompt you to select the type of object to be placed there and bicycle
 			<div style="background-image: url('photos/MC4.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/MC4.png" alt=""/>-->
 			<figcaption style="text-align: left; font-size: medium">
-			Now you are able to add additional details about the bike parking.
-            </br></br>
+			Now you are able to add additional details about the bike parking.  
+			  
+
             Your changes will be automatically uploaded to OSM.
 			</figcaption>
 		</figure>
@@ -210,8 +230,9 @@ The [OpenStreetMap](https://www.openstreetmap.org/) website has a map editor bui
 			<div style="background-image: url('photos/iD4.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/iD4.png" alt=""/>-->
 			<figcaption style="text-align: left; font-size: medium">
-			Once selected, you can add any details about the parking. If you have any questions about appropriate values, you can click the “i” button next to any of the fields to get more information.
-            </br></br>
+			Once selected, you can add any details about the parking. If you have any questions about appropriate values, you can click the “i” button next to any of the fields to get more information.  
+			  
+
             Once you have added the details you can for that parking spot, you can add more parking spots to the map in the same way or save your features to the map in the top right corner.
 			</figcaption>
 		</figure>
@@ -219,8 +240,9 @@ The [OpenStreetMap](https://www.openstreetmap.org/) website has a map editor bui
 			<div style="background-image: url('photos/iD5.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/iD5.png" alt=""/>-->
 			<figcaption style="text-align: left; font-size: medium">
-			When saving, you enter a description of what you changed and hit “Upload”. If you aren’t confident that you made the changes correctly, you can optionally ask for someone to review your edits.
-            </br></br>
+			When saving, you enter a description of what you changed and hit “Upload”. If you aren’t confident that you made the changes correctly, you can optionally ask for someone to review your edits.  
+			  
+
             Congrats! You just edited OpenStreetMap.
 			</figcaption>
 		</figure>
