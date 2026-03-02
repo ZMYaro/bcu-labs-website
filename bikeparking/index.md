@@ -24,19 +24,25 @@ The City provides a [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeePs
 
 ## Cambridge
 
-SeeClickFlix
+Cambridge installs about 150 new bike racks per year, in addition to requiring new bike racks in many developments. You can learn more about their [bike parking policies here](https://www.cambridgema.gov/CDD/Transportation/GettingAroundCambridge/BikesinCambridge/Parking).
+
+For Cambridge, you can submit a request for a [new bike rack](https://seeclickfix.com/web_portal/WacEfzPx7m29dubrPfXEEwCV/report/category/14028/location) using [SeeClickFix](https://www.cambridgema.gov/SeeClickFix) ([Android](https://play.google.com/store/apps/details?id=com.seeclickfix.ma.android&hl=en) or [Apple](https://apps.apple.com/us/app/seeclickfix/id322000552)).
 
 ## Somerville
 
-TBD
+The [Somerville Bike Network Plan](https://www.somervillema.gov/content/somerville-bicycle-network-plan) higlights where the city has bike parking and where there are significant gaps in availbe bike parking. The plan does not include any plans to fix this situation. 
+
+For Somerville, you can submit a request for a new bike rack using [311Somerville](https://www.somervillema.gov/departments/constituent-services/311-service-center) ([Android](https://play.google.com/store/apps/details?id=com.qscend.report2gov.somerville311) or [Apple](https://apps.apple.com/us/app/311somerville/id1086636902)).
 
 ## Brookline
 
-TBD
+The Brookline [Green Routes Master Network Plan](https://www.brooklinema.gov/DocumentCenter/View/18782/Green-Routes-Master-Network-Plan) notes the need for more bike parking, but does not include a plan for installing more bike racks.
+
+There is no published way to request a new bike rack. You may have luck submitting an ["Other" request](https://spot.brooklinema.gov/reports/new?service_id=4e722e1b914d320f7c000029) through [BrookOnline](https://spot.brooklinema.gov/reports/list_services).
 
 ## DCR
 
-TBD
+We have found no published way to request new bike parking. We recommend you connecting the elected state representatives the cover the area you wish to have new racks installed. You might have luck emailing DCR with your request at [mass.parks@mass.gov](mailto:mass.parks@mass.gov).
 
 # How to add exsisting bike parking to this map
 
