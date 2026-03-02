@@ -6,7 +6,7 @@ title: Bike Parking
 
 <div class="full-width-frame-container">
 	<!-- Embedded stress map -->
-	<iframe src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=hidden&bpk=true&blb=true&lts=hidden&lts1=true&lts2=true&lts3=true&lts4=true" height="800px" allowfullscreen allow="fullscreen"></iframe>
+	<iframe src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=hidden&bpk=true&blb=false&lts=hidden" height="800px" allowfullscreen allow="fullscreen"></iframe>
 </div>
 
 # How to request new bike parking
@@ -30,11 +30,10 @@ This map is created from OpenStreetMap (OSM) data. That means that anyone can ad
 
 There are many apps that allow you to map features in OSM. Below are a few of the easiest apps to get started and how to specifically use them to add bike parking to OSM.
 
-For all of the options below, you will need an account on OSM. You can sign up https://www.openstreetmap.org/user/new 
+For all of the options below, you will need an account on OSM. You can create an account [here](https://www.openstreetmap.org/user/new). 
 
 ## StreetComplete - Android only
-StreetComplete is a smartphone app for editing OpenStreetMaps and is currently only available for Android
-https://streetcomplete.app/
+[StreetComplete](https://streetcomplete.app/) is a smartphone app for editing OpenStreetMaps and is currently only available for [Android](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete).
 
 Instructions for how to add new bicycle parking using StreetComplete
 
@@ -84,10 +83,9 @@ This will prompt you to select the type of object to be placed there and bicycle
 </section>
 
 ## EveryDoor - Apple/Android
-Smartphone app for adding features such as bicycle parking to OpenStreet Maps available for both Apple and Android.
-https://every-door.app/
+[EveryDoor](https://every-door.app/) is a smartphone app for adding features, such as bicycle parking, and updating and enhancing details of features, such as capacity of bike parking, to OpenStreetMaps and is available for both [Apple](https://apps.apple.com/us/app/every-door/id1621945342) and [Android](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door).
 
-### Step-by-step instructions for adding unmapped bike parking
+### Step-by-step instructions for adding unmapped bike parking via EveryDoor
 <section>
 
 	<image-carousel>
@@ -95,31 +93,41 @@ https://every-door.app/
 		<figure>
 			<div style="background-image: url('photos/ED1.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/ED1.png" alt="" />-->
-			<figcaption>To view where existing bicycle parking is marked in OpenStreetMap, select the tree icon and update the map for your location to show existing features. This view will indicate bike parking if any is nearby along with some other options marked on the map. The image above shows the area at the intersection of Boylston St and Tremont St. Three points marked as bicycle parking are shown on Boylston Street and within the park. Note that the colors for icons may not be the same for each user.
-            </br>
-            To add the location of bicycle parking choose the blue plus sign button in the lower right of the screen. This will open a new window to prompt to choose the location to be added and is shown below. Once you have moved the pin to the location you would like to add an un-mapped instance of bicycle parking, click the blue checkmark in the lower right.</figcaption>
+			<figcaption style="text-align: left; font-size: medium">
+			To view where existing bicycle parking is marked in OpenStreetMap, select the tree icon and update the map for your location to show existing features. This view will indicate bike parking if any is nearby along with some other options marked on the map. The image above shows the area at the intersection of Boylston St and Tremont St. Three points marked as bicycle parking are shown on Boylston Street and within the park. Note that the colors for icons may not be the same for each user.
+            </br></br>
+            To add the location of bicycle parking choose the blue plus sign button in the lower right of the screen. This will open a new window to prompt to choose the location to be added and is shown below. Once you have moved the pin to the location you would like to add an un-mapped instance of bicycle parking, click the blue checkmark in the lower right.
+			</figcaption>
 		</figure>
 		<figure>
 			<div style="background-image: url('photos/ED2.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/ED2.png" alt=""/>-->
-			<figcaption>Select ‘Bicycle Parking’ amenity=bicycle_parking as the type of marker to be added either by choosing from the common options or by searching for this term in the ‘Choose type…’ search box</figcaption>
+			<figcaption style="text-align: left; font-size: medium">
+			Select ‘Bicycle Parking’ amenity=bicycle_parking as the type of marker to be added either by choosing from the common options or by searching for this term in the ‘Choose type…’ search box
+			</figcaption>
 		</figure>
 		<figure>
 			<div style="background-image: url('photos/ED3.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/ED3.png" alt=""/>-->
-			<figcaption>This will open a prompt about details of the bicycle parking including: type, capacity, operator, whether the parking is covered, open to the public, free or for a fee and more. Within the additional options whether the parking is indoor or outdoor, lit by lights, and on a level surface are relevant fields. Images can also be added in the additional options.</figcaption>
+			<figcaption style="text-align: left; font-size: medium">
+			This will open a prompt about details of the bicycle parking including: type, capacity, operator, whether the parking is covered, open to the public, free or for a fee and more. Within the additional options whether the parking is indoor or outdoor, lit by lights, and on a level surface are relevant fields. Images can also be added in the additional options.
+			</figcaption>
 		</figure>
 		<figure>
 			<div style="background-image: url('photos/ED4.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/ED4.png" alt=""/>-->
-			<figcaption>The type of racks installed by the city of Boston are known by several names including post-and-ring lollipop, bollard, post and hoop, post and loop, and are also described by several existing terms in the field type including ‘bollard’, ‘post_hoop’, and ‘post_loop’
-            </br>
-            Once you have selected information for the fields you wish to complete, choose the green Save button at the bottom of the list and your newly-defined bicycle parking should appear on the map!</figcaption>
+			<figcaption style="text-align: left; font-size: medium">
+			The type of racks installed by the city of Boston are known by several names including post-and-ring lollipop, bollard, post and hoop, post and loop, and are also described by several existing terms in the field type including ‘bollard’, ‘post_hoop’, and ‘post_loop’
+            </br></br>
+            Once you have selected information for the fields you wish to complete, choose the green Save button at the bottom of the list and your newly-defined bicycle parking should appear on the map!
+			</figcaption>
 		</figure>
 		<figure>
 			<div style="background-image: url('photos/ED5.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/ED5.png" alt=""/>-->
-			<figcaption>Once you have saved the new bike parking, you need to submit your changes to OpenStreetMap. You can do this by clicking the up arrow on the left of the bottom toolbar on the map screen. You can add multiple items and submit them all at once if you wish.</figcaption>
+			<figcaption style="text-align: left; font-size: medium">
+			Once you have saved the new bike parking, you need to submit your changes to OpenStreetMap. You can do this by clicking the up arrow on the left of the bottom toolbar on the map screen. You can add multiple items and submit them all at once if you wish.
+			</figcaption>
 		</figure>
 		
 	</image-carousel>
@@ -127,38 +135,99 @@ https://every-door.app/
 </section>
 
 ## Map Complete - Web
-https://mapcomplete.org/
-MapComplete simplifies the interface for adding types of features (themes) to OSM.They have a theme just for bike parking (https://mapcomplete.org/bicycle_parkings.html?z=12.9&lat=42.351653695129585&lon=-71.06010161014677) and another that includes bike parking and other useful features and amenities for cyclists (https://mapcomplete.org/cyclofix.html?z=12.6&lat=42.34600576339486&lon=-71.08348986228737). The steps are the same for each, but we will focus on just the bike parking theme here.
 
-Once you zoom in enough to the location you want to add bike parking, click the “Add a New Feature” button in the lower left corner. Then click “Add a bike parking”.
+[MapComplete](https://mapcomplete.org/) simplifies the interface for adding types of features to OSM with a varitety of themes. They have a theme just for [bike parking](https://mapcomplete.org/bicycle_parkings.html?z=12.9&lat=42.351653695129585&lon=-71.06010161014677) and another that includes bike parking and other useful features and [amenities for cyclists](https://mapcomplete.org/cyclofix.html?z=12.6&lat=42.34600576339486&lon=-71.08348986228737). The steps are the same for each, but the below insturctions are for the bike parking theme.
 
+<section>
 
-Drag the map to locate the crosshairs accurately, then click “Confirm this location” in the bottom right corner.
+	<image-carousel>
+		
+		<figure>
+			<div style="background-image: url('photos/MC1.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
+			<!--<img src="photos/MC1.png" alt="" />-->
+			<figcaption style="text-align: left; font-size: medium">
+			Once you zoom in enough to the location you want to add bike parking, click the “Add a New Feature” button in the lower left corner.
+			</figcaption>
+		</figure>
+		<figure>
+			<div style="background-image: url('photos/MC2.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
+			<!--<img src="photos/MC2.png" alt=""/>-->
+			<figcaption style="text-align: left; font-size: medium">
+			Click “Add a bike parking”.
+			</figcaption>
+		</figure>
+		<figure>
+			<div style="background-image: url('photos/MC3.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
+			<!--<img src="photos/MC3.png" alt=""/>-->
+			<figcaption style="text-align: left; font-size: medium">
+			Drag the map to locate the crosshairs accurately, then click “Confirm this location” in the bottom right corner.
+			</figcaption>
+		</figure>
+		<figure>
+			<div style="background-image: url('photos/MC4.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
+			<!--<img src="photos/MC4.png" alt=""/>-->
+			<figcaption style="text-align: left; font-size: medium">
+			Now you are able to add additional details about the bike parking.
+            </br></br>
+            Your changes will be automatically uploaded to OSM.
+			</figcaption>
+		</figure>
+		
+	</image-carousel>
 
-Now you are able to add additional details about the bike parking.
+</section>
 
-Your changes will be automatically uploaded to OSM.
 ## OpenStreetMap iD - Web
-https://www.openstreetmap.org/
-This is the default editor on the OSM website. To start editing, go to the top left corner and click “Edit”
 
-Once you have logged in, you can add a feature to the map using the buttons in the top center
+The [OpenStreetMap](https://www.openstreetmap.org/) website has a map editor built-in. This allows you to edit any detail on the OSM map and can be overwhelming when getting started, but adding features like bike parking is very easy.
 
-To add bike parking, choose “Point” and click on the map where the bike parking is located.
+<section>
 
-Once placed, you can search for the “bike parking” feature type in the left side panel.
+	<image-carousel>
+		
+		<figure>
+			<div style="background-image: url('photos/iD1.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
+			<!--<img src="photos/iD1.png" alt="" />-->
+			<figcaption style="text-align: left; font-size: medium">
+			To start editing, go to the top left corner and click “Edit”. You will need to log in if you aren't already.
+			</figcaption>
+		</figure>
+		<figure>
+			<div style="background-image: url('photos/iD2.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
+			<!--<img src="photos/iD2.png" alt=""/>-->
+			<figcaption style="text-align: left; font-size: medium">
+			Pan and zoom the map to where you want to add new bike parking, then click the "Point" button in the top middle of the map.
+			</figcaption>
+		</figure>
+		<figure>
+			<div style="background-image: url('photos/iD3.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
+			<!--<img src="photos/iD3.png" alt=""/>-->
+			<figcaption style="text-align: left; font-size: medium">
+			You can place the point by clicking on the map. An empty marker with a red outline will be added to the map. You can adjust the exact location by dragging the point. In the left panel, you can search for and select "bike parking" as the feature type.
+			</figcaption>
+		</figure>
+		<figure>
+			<div style="background-image: url('photos/iD4.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
+			<!--<img src="photos/iD4.png" alt=""/>-->
+			<figcaption style="text-align: left; font-size: medium">
+			Once selected, you can add any details about the parking. If you have any questions about appropriate values, you can click the “i” button next to any of the fields to get more information.
+            </br></br>
+            Once you have added the details you can for that parking spot, you can add more parking spots to the map in the same way or save your features to the map in the top right corner.
+			</figcaption>
+		</figure>
+		<figure>
+			<div style="background-image: url('photos/iD5.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
+			<!--<img src="photos/iD5.png" alt=""/>-->
+			<figcaption style="text-align: left; font-size: medium">
+			When saving, you enter a description of what you changed and hit “Upload”. If you aren’t confident that you made the changes correctly, you can optionally ask for someone to review your edits.
+            </br></br>
+            Congrats! You just edited OpenStreetMap.
+			</figcaption>
+		</figure>
+		
+	</image-carousel>
 
-Once selected, you can add any details about the parking.
-
-If you have any questions about appropriate values, you can click the “i” button next to any of the fields to get more information.
-
-Once you have added the details you can for that parking spot, you can add more parking spots to the map in the same way or save your features to the map in the top right corner.
-
-When saving, you enter a description of what you changed and hit “Upload”. If you aren’t confident that you made the changes correctly, you can optionally ask for someone to review your edits.
-
-Congrats! You just edited OpenStreetMap. If you added bike parking, you can refresh [link to stressmap] in a few minutes and see it added to our map.
-
-From here, you can learn how to edit existing features and improve the map in other ways. The Stress Map uses OSM data to calculate street ratings. [link to what tags we use for LTS calcs]. Unlike bike parking, any street changes you make will take a few days to appear on our Stress Map, when we recalculate the ratings.
+</section>
 
 
 <script type="module" src="{{ site.baseurl }}/assets/components/image_carousel.js"></script>
