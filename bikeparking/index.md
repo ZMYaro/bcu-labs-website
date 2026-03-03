@@ -36,9 +36,9 @@ For Somerville, you can submit a request for a new bike rack using [311Somervill
 
 ## Brookline
 
-The Brookline [Green Routes Master Network Plan](https://www.brooklinema.gov/DocumentCenter/View/18782/Green-Routes-Master-Network-Plan) notes the need for more bike parking, but does not include a plan for installing more bike racks.
+The Brookline [Green Routes Master Network Plan](https://www.brooklinema.gov/DocumentCenter/View/18782/Green-Routes-Master-Network-Plan) notes the need for more bike parking, but does not include a plan for installing more bike racks. The town installs new racks based on requests, with funding from the bike improvement budget. In 2026 they expect to install 20-30 new racks.
 
-There is no published way to request a new bike rack. You may have luck submitting an ["Other" request](https://spot.brooklinema.gov/reports/new?service_id=4e722e1b914d320f7c000029) through [BrookOnline](https://spot.brooklinema.gov/reports/list_services).
+You can [request a new bike rack here](https://www.brooklinema.gov/FormCenter/DPW-Engineering-Transportation-11/Bike-Rack-Installation-Request-133).  
 
 ## DCR
 
@@ -46,7 +46,7 @@ We have found no published way to request new bike parking. We recommend you con
 
 # How to add exsisting bike parking to this map
 
-This map is created from OpenStreetMap (OSM) data. That means that anyone can add bike parking to this map, much like Wikipedia.
+This map is created from OpenStreetMap (OSM) data. That means that anyone can add bike parking to this map, much like Wikipedia. We update our map every evening, so if you add any new bike parking today, everyone will see it here tomorrow. 
 
 There are many apps that allow you to map features in OSM. Below are a few of the easiest apps to get started and how to specifically use them to add bike parking to OSM.
 
