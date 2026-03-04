@@ -5,6 +5,8 @@ title: Bike Parking
 
 There are numerous obstacles that prevent people from choosing to ride a bike for a trip. Many of these can be boiled down to a feeling of safety. You can see our analysis on the comfort of biking on streets on our [Stress Map](https://labs.bostoncyclistsunion.org/stressmap/). But another major obstacle is bike parking. If one doesn't feel that they can safely park their bike at their destination, they won't choose to bike. As you can see in the map below, bike parking is not evenly or thoroughly distributed throughout Boston. This means that there are countless people that aren't able to bike when they otherwise would choose to. Improving this situation is something that each city is more than capable to do, as installing bike racks is simple, cheap, and quick. The Boston Cyclists Union has been advocating for improved bike parking for many years now, included in our [2021 report](https://bostoncyclistsunion.org/wp-content/uploads/2022/01/bcu-parking-study-final.pdf).
 
+Below the map we have instuctions on [how to request new bike racks](#how-to-request-new-bike-parking) and [how to add existing bike racks to this map](#how-to-add-existing-bike-parking-to-this-map). 
+
 <div class="full-width-frame-container">
 	<!-- Embedded stress map -->
 	<iframe src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=hidden&bpk=true&blb=false&lts=hidden" height="800px" allowfullscreen allow="fullscreen"></iframe>
@@ -20,7 +22,7 @@ To help, we have collected below the suggested method to request new bike racks 
 
 [Boston claims](https://www.boston.gov/departments/boston-bikes/bike-rack-program) to install and repair about 120 - 160 bike racks per year, but they haven't updated their newly-installed bike rack map since 2020 (as of 3/2/2026).  
   
-For Boston, request a bike rack using this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeePsIpR2s-Fw4oKbZsH8gJwWP1l5GexRCt-TWcKjWt4v3Dgw/viewform),which is on the [bike rack program page](https://www.boston.gov/departments/boston-bikes/bike-rack-program).  This program indicates that locations in commercial corridors and in partnership with civic institutions, such as libraries and community centers, will be prioritized.  
+For Boston, request a bike rack using this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeePsIpR2s-Fw4oKbZsH8gJwWP1l5GexRCt-TWcKjWt4v3Dgw/viewform), which is on the [bike rack program page](https://www.boston.gov/departments/boston-bikes/bike-rack-program).  This program indicates that locations in commercial corridors and in partnership with civic institutions, such as libraries and community centers, will be prioritized.  
 
 ## Cambridge
 
