@@ -12,29 +12,34 @@ Below the map we have instuctions on [how to request new bike racks](#how-to-req
 	<iframe src="https://bostoncyclistsunion.github.io/LabsWebsiteMap#inx=hidden&bpk=true&blb=false&lts=hidden" height="800px" allowfullscreen allow="fullscreen"></iframe>
 </div>
 
+
 # How to request new bike parking
 
 If you know of a specific location that could use a bike rack, we strongly encourage you to request it directly from the controlling jurisdiction. In general, this is the only way to make sure they know exactly where people will use new bike parking. Also, if people consistently request bike parking, this may increase the priority to install more racks faster.  
 
 To help, we have collected below the suggested method to request new bike racks for as many jurisdictions as we can. If you know of something we have missed, please let us know.
 
+
 ## Boston
 
-[Boston claims](https://www.boston.gov/departments/boston-bikes/bike-rack-program) to install and repair about 120 - 160 bike racks per year, but they haven't updated their newly-installed bike rack map since 2020 (as of 3/2/2026).  
+[Boston claims](https://www.boston.gov/departments/boston-bikes/bike-rack-program) to install and repair about 120-160 bike racks per year, but they haven't updated their newly-installed bike rack map since 2020 (as of 3/2/2026).  
   
-For Boston, request a bike rack using this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeePsIpR2s-Fw4oKbZsH8gJwWP1l5GexRCt-TWcKjWt4v3Dgw/viewform), which is on the [bike rack program page](https://www.boston.gov/departments/boston-bikes/bike-rack-program).  This program indicates that locations in commercial corridors and in partnership with civic institutions, such as libraries and community centers, will be prioritized.  
+For Boston, [request a bike rack using this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeePsIpR2s-Fw4oKbZsH8gJwWP1l5GexRCt-TWcKjWt4v3Dgw/viewform), which is on the [bike rack program page](https://www.boston.gov/departments/boston-bikes/bike-rack-program).  The program page indicates they prioritize locations in commercial corridors and in partnership with civic institutions such as libraries and community centers.
+
 
 ## Cambridge
 
 Cambridge installs about 150 new bike racks per year, in addition to requiring new bike racks in many developments. You can learn more about their [bike parking policies here](https://www.cambridgema.gov/CDD/Transportation/GettingAroundCambridge/BikesinCambridge/Parking).
 
-For Cambridge, request a [new bike rack](https://seeclickfix.com/web_portal/WacEfzPx7m29dubrPfXEEwCV/report/category/14028/location) using [SeeClickFix](https://www.cambridgema.gov/SeeClickFix) ([Android](https://play.google.com/store/apps/details?id=com.seeclickfix.ma.android&hl=en) or [Apple](https://apps.apple.com/us/app/seeclickfix/id322000552)).
+For Cambridge, request a new bike rack using [SeeClickFix](https://www.cambridgema.gov/SeeClickFix) ([web](https://seeclickfix.com/web_portal/WacEfzPx7m29dubrPfXEEwCV/report/category/14028/location), [Android](https://play.google.com/store/apps/details?id=com.seeclickfix.ma.android), [Apple](https://apps.apple.com/us/app/seeclickfix/id322000552)).
+
 
 ## Somerville
 
 The [Somerville Bike Network Plan](https://www.somervillema.gov/content/somerville-bicycle-network-plan) highlights where the city has bike parking and where there are significant gaps in available bike parking. The plan does not include any plans to fix this situation. 
 
-For Somerville, request a new bike rack using [311Somerville](https://www.somervillema.gov/departments/constituent-services/311-service-center) ([Android](https://play.google.com/store/apps/details?id=com.qscend.report2gov.somerville311) or [Apple](https://apps.apple.com/us/app/311somerville/id1086636902)).
+For Somerville, request a new bike rack using [311Somerville](https://www.somervillema.gov/departments/constituent-services/311-service-center) ([web](https://somervillema.qscend.com/311/request/add), [Android](https://play.google.com/store/apps/details?id=com.qscend.report2gov.somerville311), [Apple](https://apps.apple.com/us/app/311somerville/id1086636902)).
+
 
 ## Brookline
 
@@ -42,9 +47,11 @@ The Brookline [Green Routes Master Network Plan](https://www.brooklinema.gov/Doc
 
 For Brookline, [request a new bike rack here](https://www.brooklinema.gov/FormCenter/DPW-Engineering-Transportation-11/Bike-Rack-Installation-Request-133).  
 
+
 ## Department of Conservation and Recreation (DCR)
 
 We have found no published way to request new bike parking in areas maintained by DCR. We recommend contacting your elected state representatives and the elected state representatives who represent the area in which you wish to have new racks installed. You can find contact information for elected representatives using the state’s [Find My Legislature tool](https://malegislature.gov/Search/FindMyLegislator). You might also have luck emailing DCR with your request at [mass.parks@mass.gov](mailto:mass.parks@mass.gov).
+
 
 ## Arlington
 
@@ -52,13 +59,15 @@ Arlington Center is designated as a Parking Benefit District, which allocates th
 
 [waiting on response from town on how to request a rack]
 
+
 # How to add existing bike parking to this map
 
 This map is created from OpenStreetMap (OSM) data. That means that anyone can add bike parking to this map, much like Wikipedia. We update our data for this map every evening, so if you add any new bike parking today in OSM, everyone will see it here tomorrow.
 
 There are many apps that allow you to map features in OSM. Below are a few of the easiest apps to get started and how to specifically use them to add bike parking to OSM.
 
-For all of the options below, you will need an account on OSM. You can create an account [here](https://www.openstreetmap.org/user/new). 
+For all of the options below, you will need an account on OSM. You can [create an account here](https://www.openstreetmap.org/user/new). 
+
 
 ## StreetComplete - Android only
 
@@ -109,9 +118,10 @@ For visual help, scroll horizontally through the screenshots below.
 
 </section>
 
-## EveryDoor - Apple/Android
 
-[EveryDoor](https://every-door.app/) is a smartphone app for adding features, such as bicycle parking, and updating and enhancing details of features, such as capacity of bike parking, to OpenStreetMaps and is available for both [Apple](https://apps.apple.com/us/app/every-door/id1621945342) and [Android](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door).
+## EveryDoor - Android/Apple
+
+[EveryDoor](https://every-door.app/) is a smartphone app for adding features, such as bicycle parking, and updating and enhancing details of features, such as capacity of bike parking, to OpenStreetMaps and is available for both [Android](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door) and [Apple](https://apps.apple.com/us/app/every-door/id1621945342).
 
 Scroll or swipe horizontally on the instructions below to see all of the instructions.
 
@@ -163,11 +173,12 @@ Scroll or swipe horizontally on the instructions below to see all of the instruc
 
 </section>
 
+
 ## Map Complete - Web
 
-[MapComplete](https://mapcomplete.org/) simplifies the interface for adding types of features to OSM with a variety of themes. They have a theme just for [bike parking](https://mapcomplete.org/bicycle_parkings.html?z=12.9&lat=42.351653695129585&lon=-71.06010161014677) and another that includes bike parking and other useful features and [amenities for cyclists](https://mapcomplete.org/cyclofix.html?z=12.6&lat=42.34600576339486&lon=-71.08348986228737). The steps are the same for each, but the instructions below are for the bike parking theme.
+[MapComplete](https://mapcomplete.org) simplifies the interface for adding types of features to OSM with a variety of themes. They have a theme just for [bike parking](https://mapcomplete.org/bicycle_parkings.html?z=12.9&lat=42.351653695129585&lon=-71.06010161014677) and another that includes bike parking and other useful features and [amenities for cyclists](https://mapcomplete.org/cyclofix.html?z=12.6&lat=42.34600576339486&lon=-71.08348986228737). The steps are the same for each, but the instructions below are for the bike parking theme.
 
-On [mapcomplete.org](mapcomplete.org), select “Cyclofix - A map for cyclists.” Scroll or swipe horizontally on the instructions below to see all of the instructions.
+On [MapComplete.org](https://mapcomplete.org), select “Cyclofix - A map for cyclists.”  Scroll or swipe horizontally on the instructions below to see all of the instructions.
 
 <section>
 
@@ -207,6 +218,7 @@ On [mapcomplete.org](mapcomplete.org), select “Cyclofix - A map for cyclists.�
 	</image-carousel>
 
 </section>
+
 
 ## OpenStreetMap iD - Web
 
