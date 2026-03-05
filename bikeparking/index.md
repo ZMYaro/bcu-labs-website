@@ -124,7 +124,7 @@ Scroll or swipe horizontally on the instructions below to see all of the instruc
 			<!--<img src="photos/ED1.png" alt="" />-->
 			<figcaption style="text-align: left; font-size: medium; margin-bottom: 0.5em;">
 			To view where existing bicycle parking is marked in OpenStreetMap, select the tree icon and update the map for your location to show existing features. This view will indicate bike parking if any is nearby along with some other options marked on the map. The image above shows the area at the intersection of Boylston St and Tremont St. Three points marked as bicycle parking are shown on Boylston Street and within the park. Note that the colors for icons may not be the same for each user.
-			<br />
+			<br /><br />
             To add the location of bicycle parking, choose the blue plus sign button in the lower right of the screen. This will prompt you to choose the location to be added. 
 			</figcaption>
 		</figure>
@@ -147,7 +147,7 @@ Scroll or swipe horizontally on the instructions below to see all of the instruc
 			<!--<img src="photos/ED4.png" alt=""/>-->
 			<figcaption style="text-align: left; font-size: medium; margin-bottom: 0.5em;">
 			This will open a prompt about details of the bicycle parking, including: type, capacity, operator, whether the parking is covered, open to the public, free or for a fee, and more. Images can also be added in the “additional options” or “more fields” section which you’ll need to expand at the bottom of the screen. 
-			<br>
+			<br /><br />
             Once you have selected information for the fields you wish to complete, tap the green “Save” button at the bottom of the list. Your contribution is now ready to be submitted to OSM.
 			</figcaption>
 		</figure>
@@ -198,9 +198,8 @@ On [mapcomplete.org](mapcomplete.org), select “Cyclofix - A map for cyclists.�
 			<div style="background-image: url('photos/MC4.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/MC4.png" alt=""/>-->
 			<figcaption style="text-align: left; font-size: medium; margin-bottom: 0.5em;">
-			Now you are able to add additional details about the bike parking.  
-			  
-
+			Now you are able to add additional details about the bike parking.
+			<br /><br />
             Your changes will be automatically uploaded to OSM.
 			</figcaption>
 		</figure>
@@ -244,9 +243,8 @@ Scroll or swipe horizontally on the instructions below to see all of the instruc
 			<div style="background-image: url('photos/iD4.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/iD4.png" alt=""/>-->
 			<figcaption style="text-align: left; font-size: medium; margin-bottom: 0.5em;">
-			Once selected, you can add any details about the parking. If you have any questions about appropriate values, you can click the “i” button next to any of the fields to get more information.   
-			  
-
+			Once selected, you can add any details about the parking. If you have any questions about appropriate values, you can click the “i” button next to any of the fields to get more information.
+			<br /><br />
             Once you have added details for that parking spot, you can add more parking spots to the map in the same way, or save your features to the map in the top right corner. 
 			</figcaption>
 		</figure>
@@ -254,10 +252,9 @@ Scroll or swipe horizontally on the instructions below to see all of the instruc
 			<div style="background-image: url('photos/iD5.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/iD5.png" alt=""/>-->
 			<figcaption style="text-align: left; font-size: medium; margin-bottom: 0.5em;">
-			When saving, you enter a description of what you changed and hit “Upload”. If you aren’t confident that you made the changes correctly, you can optionally ask for someone to review your edits.  
-			  
-
-            Congrats! You just edited OpenStreetMap.
+			When saving, you enter a description of what you changed and hit “Upload”. If you aren’t confident that you made the changes correctly, you can optionally ask for someone to review your edits.
+			<br /><br />
+			Congrats! You just edited OpenStreetMap.
 			</figcaption>
 		</figure>
 		
