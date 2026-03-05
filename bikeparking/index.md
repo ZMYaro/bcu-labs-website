@@ -123,9 +123,8 @@ Scroll or swipe horizontally on the instructions below to see all of the instruc
 			<div style="background-image: url('photos/ED1.png'); background-size: contain; background-position: center; background-repeat: no-repeat;"></div>
 			<!--<img src="photos/ED1.png" alt="" />-->
 			<figcaption style="text-align: left; font-size: medium; margin-bottom: 0.5em;">
-			To view where existing bicycle parking is marked in OpenStreetMap, select the tree icon and update the map for your location to show existing features. This view will indicate bike parking if any is nearby along with some other options marked on the map. The image above shows the area at the intersection of Boylston St and Tremont St. Three points marked as bicycle parking are shown on Boylston Street and within the park. Note that the colors for icons may not be the same for each user.  
-			  
-
+			To view where existing bicycle parking is marked in OpenStreetMap, select the tree icon and update the map for your location to show existing features. This view will indicate bike parking if any is nearby along with some other options marked on the map. The image above shows the area at the intersection of Boylston St and Tremont St. Three points marked as bicycle parking are shown on Boylston Street and within the park. Note that the colors for icons may not be the same for each user.
+			<br />
             To add the location of bicycle parking, choose the blue plus sign button in the lower right of the screen. This will prompt you to choose the location to be added. 
 			</figcaption>
 		</figure>
@@ -148,8 +147,7 @@ Scroll or swipe horizontally on the instructions below to see all of the instruc
 			<!--<img src="photos/ED4.png" alt=""/>-->
 			<figcaption style="text-align: left; font-size: medium; margin-bottom: 0.5em;">
 			This will open a prompt about details of the bicycle parking, including: type, capacity, operator, whether the parking is covered, open to the public, free or for a fee, and more. Images can also be added in the “additional options” or “more fields” section which you’ll need to expand at the bottom of the screen. 
-			  
-
+			<br>
             Once you have selected information for the fields you wish to complete, tap the green “Save” button at the bottom of the list. Your contribution is now ready to be submitted to OSM.
 			</figcaption>
 		</figure>
