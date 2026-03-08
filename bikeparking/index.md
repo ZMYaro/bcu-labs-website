@@ -66,8 +66,12 @@ This map is created from OpenStreetMap (OSM) data. That means that anyone can ad
 
 There are many apps that allow you to map features in OSM. Below are a few of the easiest apps to get started and how to specifically use them to add bike parking to OSM.
 
-For all of the options below, you will need an account on OSM. You can [create an account here](https://www.openstreetmap.org/user/new). 
+For all of the options below, you will need an account on OSM. You can [create an account here](https://www.openstreetmap.org/user/new). The table below can help you choose the right instructions based on your preferred platform.
 
+| Web         | Android        | Apple     |
+|-------------|----------------|-----------|
+| [Map Complete](#map-complete-web) | [StreetComplete](#streetcomplete-android-only) | [EveryDoor](#everydoor-apple-android) |
+| [iD](#openstreetmap-id-web)          | [EveryDoor](#everydoor-apple-android)      |           |
 
 ## StreetComplete - Android only
 
