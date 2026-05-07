@@ -15,10 +15,10 @@ BCU Labs seeks to draw insight and tell stories from the wealth of biking data i
 ## Our projects and writing
 
 <div class="featured-links">
-	<!--<a class="link-button" href="projecttracker/">
+	<a class="link-button" href="projecttracker/">
 		<big>Project Tracker</big>
 		<small>Track Boston area micromobility projects</small>
-	</a>-->
+	</a>
 	<a class="link-button" href="https://landway.BostonCyclistsUnion.org" target="_blank">
 		<big>Landway Map</big>
 		<small>Mobility network vision</small>
@@ -35,7 +35,7 @@ BCU Labs seeks to draw insight and tell stories from the wealth of biking data i
 		<big>Bike Parking</big>
 		<small>Where can you park your bike?</small>
 	</a>
-	<a class="link-button" href="stressmap/">
+	<a class="link-button" href="map/">
 		<big>BCU Labs Projects Map</big>
 		<small>Explore multiple of our projects at the same time</small>
 	</a>
