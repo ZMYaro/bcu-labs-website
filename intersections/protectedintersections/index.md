@@ -98,96 +98,66 @@ title: Protected Intersections? - Forgotten Intersections
 	
 	<div class="multi-column-row">
 		<div columns="1">
-		
 			<h3>As a driver...</h3>
-			
-			<image-carousel>
-				
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Full construction separated corner at Broadway & Galileo (Kendall Square)</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Full construction separated corner at Mass Ave. & Boylston (Back Bay)</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Quick build separated corner at Grand Union & Foley (Assembly Square)</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Quick build separated corner at Hampshire & Portland (Kendall Square, built in response to Minh-Thi Nguyen being killed with a truck)</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Quick build separated corner at Boylston & Ipswich (under construction, Fenway)</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Full construction separated corner at Columbus Ave. & Ruggles Busway</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Full construction separated corner at N. Washington St. & Chelsea St. (under construction)</figcaption>
-				</figure>
-				
-			</image-carousel>
-			
 		</div>
 		<div columns="1">
-		
 			<h3>As a vulnerable road user...</h3>
-			
-			<image-carousel>
-				
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Full construction separated corner at Broadway & Galileo (Kendall Square)</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Full construction separated corner at Mass Ave. & Boylston (Back Bay)</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Quick build separated corner at Grand Union & Foley (Assembly Square)</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Quick build separated corner at Hampshire & Portland (Kendall Square, built in response to Minh-Thi Nguyen being killed with a truck)</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Quick build separated corner at Boylston & Ipswich (under construction, Fenway)</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Full construction separated corner at Columbus Ave. & Ruggles Busway</figcaption>
-				</figure>
-				<figure>
-					<div style="background-image: url('TODO'); background-size: cover; background-position: center;"></div>
-					<!--<img src="TODO" alt="" />-->
-					<figcaption>Full construction separated corner at N. Washington St. & Chelsea St. (under construction)</figcaption>
-				</figure>
-				
-			</image-carousel>
 		</div>
 	</div>
-
+	<image-carousel>
+	
+		<figure>
+			<div class="multi-column-row">
+				<div columns="1" style="background-image: url('../photos/protected_corners/broadway&amp;galileo_driver.jpg'); background-size: cover; background-position: center;"></div>
+				<div columns="1" style="background-image: url('../photos/protected_corners/broadway&amp;galileo_vru.jpg'); background-size: cover; background-position: center;"></div>
+			</div>
+			<figcaption>Full construction separated corner at Broadway &amp; Galileo (Kendall Square)</figcaption>
+		</figure>
+		<figure>
+			<div class="multi-column-row">
+				<div columns="1" style="background-image: url('../photos/protected_corners/mass&amp;boylston_driver.jpg'); background-size: cover; background-position: center;"></div>
+				<div columns="1" style="background-image: url('../photos/protected_corners/mass&amp;boylston_vru.jpg'); background-size: cover; background-position: center;"></div>
+			</div>
+			<figcaption>Full construction separated corner at Mass Ave. &amp; Boylston (Back Bay)</figcaption>
+		</figure>
+		<figure>
+			<div class="multi-column-row">
+				<div columns="1" style="background-image: url('../photos/protected_corners/grand_union&amp;foley_driver.jpg'); background-size: cover; background-position: center;"></div>
+				<div columns="1" style="background-image: url('../photos/protected_corners/grand_union&amp;foley_vru.jpg'); background-size: cover; background-position: center;"></div>
+			</div>
+			<figcaption>Quick build separated corner at Grand Union &amp; Foley (Assembly Square)</figcaption>
+		</figure>
+		<figure>
+			<div class="multi-column-row">
+				<div columns="1" style="background-image: url('../photos/protected_corners/hampshire&amp;portland_driver.jpg'); background-size: cover; background-position: center;"></div>
+				<div columns="1" style="background-image: url('../photos/protected_corners/hampshire&amp;portland_vru.jpg'); background-size: cover; background-position: center;"></div>
+			</div>
+			<figcaption>Quick build separated corner at Hampshire &amp; Portland (Kendall Square, built in response to Minh-Thi Nguyen being killed with a truck)</figcaption>
+		</figure>
+		<figure>
+			<div class="multi-column-row">
+				<div columns="1" style="background-image: url('../photos/protected_corners/boylston&amp;ipswich_driver.jpg'); background-size: cover; background-position: center;"></div>
+				<div columns="1" style="background-image: url('../photos/protected_corners/boylston&amp;ipswich_vru.jpg'); background-size: cover; background-position: center;"></div>
+			</div>
+			<figcaption>Quick build separated corner at Boylston &amp; Ipswich (under construction, Fenway)</figcaption>
+		</figure>
+		<figure>
+			<div class="multi-column-row">
+				<div columns="1" style="background-image: url('../photos/protected_corners/columbus&amp;ruggles_busway_driver.jpg'); background-size: cover; background-position: center;"></div>
+				<div columns="1" style="background-image: url('../photos/protected_corners/columbus&amp;ruggles_busway_vru.jpg'); background-size: cover; background-position: center;"></div>
+			</div>
+			<figcaption>Full construction separated corner at Columbus Ave. &amp; Ruggles Busway</figcaption>
+		</figure>
+		<figure>
+			<div class="multi-column-row">
+				<div columns="1" style="background-image: url('../photos/protected_corners/n_washington&amp;chelsea_driver.jpg'); background-size: cover; background-position: center;"></div>
+				<div columns="1" style="background-image: url('../photos/protected_corners/n_washington&amp;chelsea_vru.jpg'); background-size: cover; background-position: center;"></div>
+			</div>
+			<figcaption>Full construction separated corner at N. Washington St. &amp; Chelsea St. (under construction)</figcaption>
+		</figure>
+	
+	</image-carousel>
+	
 </section>
 
 <br />
