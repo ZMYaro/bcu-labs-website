@@ -38,7 +38,7 @@ For Cambridge, request a new bike rack using [SeeClickFix](https://www.cambridge
 
 ## Somerville
 
-The [Somerville Bike Network Plan](https://www.somervillema.gov/content/somerville-bicycle-network-plan) highlights where the city has bike parking and where there are significant gaps in available bike parking. The plan does not include any plans to fix this situation. 
+The [2023 Somerville Bike Network Plan](https://www.somervillema.gov/content/somerville-bicycle-network-plan) highlights where the city has bike parking and where there are significant gaps in available bike parking. The plan does not include any plans to fix this situation. The Bicycle Network Plan references a Bicycle Parking Guide, which has not been started as of May 2026. As of May 2026, there is no official budget to install more bike racks, but in April 2026 20 racks were installed. Generally, they prioritize schools, business districts and transit hubs for new bike parking installation.
 
 For Somerville, request a new bike rack using [311Somerville](https://www.somervillema.gov/departments/constituent-services/311-service-center) ([web](https://somervillema.qscend.com/311/request/add), [Android](https://play.google.com/store/apps/details?id=com.qscend.report2gov.somerville311), [Apple](https://apps.apple.com/us/app/311somerville/id1086636902)).
 
